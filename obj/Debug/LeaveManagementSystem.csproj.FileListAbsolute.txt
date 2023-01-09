@@ -1,0 +1,14 @@
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\bin\Debug\LeaveManagementSystem.exe.config
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Categories.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Employees.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Leaves.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Login.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.Properties.Resources.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.ViewLeaves.resources
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.csproj.GenerateResource.cache
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.exe
+C:\Users\Jahuruddin\source\repos\SampleDemo\LeaveManagementSystem\obj\Debug\LeaveManagementSystem.pdb
